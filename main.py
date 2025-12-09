@@ -1,2 +1,2 @@
 print("greetings boots")
-name = luis
+name = luiss
